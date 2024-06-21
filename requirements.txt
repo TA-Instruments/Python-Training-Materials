@@ -1,1 +1,1 @@
-tadatakit=="0.1.0"
+tadatakit==0.1.0
