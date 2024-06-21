@@ -1,1 +1,2 @@
 tadatakit==0.1.0
+matplotlib==3.9.0
